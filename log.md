@@ -71,17 +71,22 @@ ____________________________________________________________
 
 Wrote a program to find the union and intersection of two arrays.
 ____________________________________________________________
-
 ### **Day 12 : June 4, 2022**
 
-1. Wrote a program to flatten array.
-2. Learned the difference between git fork and clone.
+Wrote a program to flatten array.
 ____________________________________________________________
-### <p>⚠<span style="color:red">Missed 1 week</span> 😢</p>
+### **Day 13 : June 5, 2022**
+
+Learned the difference between git fork and clone.
+____________________________________________________________
+### ⛔ <span style="color:red">Missed 1 week</span> 😢
 Due to feeling sad over bad interview and fatigueness.
 ____________________________________________________________
 
+### **Day 14 : June 13, 2022**
 
+Wrote program to find [Sum of all digits of a number.](https://replit.com/@RituPowar/sumofalldigitsofnumber#index.js?embed=1&output=1)
 
+[For simpler versions](https://stackoverflow.com/questions/38334652/sum-all-the-digits-of-a-number-javascript)
 
 
