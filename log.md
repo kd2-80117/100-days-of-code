@@ -77,7 +77,7 @@ ____________________________________________________________
 1. Wrote a program to flatten array.
 2. Learned the difference between git fork and clone.
 ____________________________________________________________
-### <span style="color:red">Missed 1 week</span> 😢
+### <p>⚠<span style="color:red">Missed 1 week</span> 😢</p>
 Due to feeling sad over bad interview and fatigueness.
 ____________________________________________________________
 
