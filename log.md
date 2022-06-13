@@ -77,7 +77,7 @@ Wrote a program to flatten array.
 ____________________________________________________________
 ### **Day 13 : June 5, 2022**
 
-Learned the difference between git fork and clone.
+    Learned the difference between git fork and clone.
 ____________________________________________________________
 ### ⛔ <span style="color:red">Missed 1 week</span> 😢
 Due to feeling sad over bad interview and fatigueness.
@@ -85,7 +85,7 @@ ____________________________________________________________
 
 ### **Day 14 : June 13, 2022**
 
-Wrote program to find [Sum of all digits of a number.](https://replit.com/@RituPowar/sumofalldigitsofnumber#index.js?embed=1&output=1)
+    Wrote program to find [Sum of all digits of a number.](https://replit.com/@RituPowar/sumofalldigitsofnumber#index.js?embed=1&output=1)
 
 [For simpler versions](https://stackoverflow.com/questions/38334652/sum-all-the-digits-of-a-number-javascript)
 
