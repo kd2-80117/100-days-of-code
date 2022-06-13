@@ -80,7 +80,7 @@ ____________________________________________________________
 ### <span style="color:red">Missed 1 week</span> 😢
 Due to feeling sad over bad interview and fatigueness.
 ____________________________________________________________
-### **Day 13 : June 13, 2022**
+
 
 
 
