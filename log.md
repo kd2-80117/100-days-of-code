@@ -85,8 +85,14 @@ ____________________________________________________________
 
 ### **Day 14 : June 13, 2022**
 
-Wrote program to find [Sum of all digits of a number.](https://replit.com/@RituPowar/sumofalldigitsofnumber#index.js?embed=1&output=1)
+1. Wrote program to find [Sum of all digits of a number.](https://replit.com/@RituPowar/sumofalldigitsofnumber#index.js?embed=1&output=1)
 
-[For simpler versions](https://stackoverflow.com/questions/38334652/sum-all-the-digits-of-a-number-javascript)
+   [For simpler versions](https://stackoverflow.com/questions/38334652/sum-all-the-digits-of-a-number-javascript)
 
+2. Read React interview questions for fresher.
+____________________________________________________________
+### **Day 15 : June 14, 2022**
 
+1. Wrote a program to display numbers from 1 to 100 without using any loop.
+
+2. [Read React interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
