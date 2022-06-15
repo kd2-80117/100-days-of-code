@@ -96,3 +96,7 @@ ____________________________________________________________
 1. Wrote a program to display numbers from 1 to 100 without using any loop.
 
 2. [Read React interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
+____________________________________________________________
+### **Day 16 : June 15, 2022**
+
+   Wrote a program to find second max element in array. 
