@@ -89,7 +89,7 @@ ____________________________________________________________
 
    [For simpler version of same program](https://stackoverflow.com/questions/38334652/sum-all-the-digits-of-a-number-javascript)
 
-2. Read React interview questions for fresher.
+2. [Read React interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
 ____________________________________________________________
 ### **Day 15 : June 14, 2022**
 
@@ -99,4 +99,25 @@ ____________________________________________________________
 ____________________________________________________________
 ### **Day 16 : June 15, 2022**
 
-   Wrote a program to find second max element in array. 
+1. Wrote a program to find second max element in array.
+ 
+2. [Read React interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
+____________________________________________________________
+### **Day 17 : June 16, 2022**
+
+1. Worked on figma for making website design.
+
+   **Thoughts :** Figma is still new for me, but I managed to figure out some basic functionality.
+
+2. [Read React interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
+
+3. Wrote recursive factorial program.
+____________________________________________________________
+### **Day 18 : June 17, 2022**
+
+1. Completed website design on figma.
+
+2. [Read ReactJS interview questions on components.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
+
+3. Print particular string if the input is divisible by 3 or 5 and both (fizzbuzz code).
+____________________________________________________________
