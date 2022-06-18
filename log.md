@@ -121,3 +121,9 @@ ____________________________________________________________
 
 3. Print particular string if the input is divisible by 3 or 5 and both (fizzbuzz code).
 ____________________________________________________________
+### **Day 19 : June 18, 2022**
+
+1. [Finally completed these 40 ReactJS interview questions.](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
+
+2. Wrote Armstrong number program. 
+____________________________________________________________
