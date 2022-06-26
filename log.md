@@ -127,3 +127,7 @@ ____________________________________________________________
 
 2. Wrote Armstrong number program. 
 ____________________________________________________________
+### ⛔ <span style="color:red">Missed 1 week</span> 😢
+Felt depressed and tired all week, was not able to start the challenge. All week just wasted my time. Didn't even exercise all week. 
+____________________________________________________________
+### **Day 20 : June 27, 2022**
