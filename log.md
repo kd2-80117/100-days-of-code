@@ -131,3 +131,9 @@ ____________________________________________________________
 Felt depressed and tired all week, was not able to start the challenge. All week just wasted my time. Didn't even exercise all week. 
 ____________________________________________________________
 ### **Day 20 : June 27, 2022**
+
+1. Wrote a code to find out the sum of top two maximums in the list.
+
+2. Wrote bubble sort program.
+
+3. Read interview tips from twitter.
