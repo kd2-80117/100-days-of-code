@@ -137,3 +137,18 @@ ____________________________________________________________
 2. Wrote bubble sort program.
 
 3. Read interview tips from twitter.
+____________________________________________________________
+### ⛔ <span style="color:red">Missed 1 week</span> 😢
+I know what my problem is, if I miss 1 or 2 day, I get upset over it and then miss the whole week, like if I miss 2 days in beginning of the week then I waste the whole week, thinking I have already failed, what's the point in continuing. But I need to change my mentality. 
+
+Also last 2 days I was preparing for interview so missed the challenge.
+
+This is the third time I missed the whole week. I pledge to myself will never miss whole weeks again.
+____________________________________________________________
+### **Day 21 : July 7, 2022**
+
+Revised flexbox in CSS and played flexboxfroggy game. https://flexboxfroggy.com/
+____________________________________________________________
+### **Day 22 : July 8, 2022**
+
+
