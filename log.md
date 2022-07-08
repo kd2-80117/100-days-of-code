@@ -151,4 +151,6 @@ Revised flexbox in CSS and played flexboxfroggy game. https://flexboxfroggy.com/
 ____________________________________________________________
 ### **Day 22 : July 8, 2022**
 
+1. Revised CSS selectors. Played https://flukeout.github.io/ game to practice CSS selectors.
 
+2. [Read Javascript interviewbit questions.](https://www.interviewbit.com/javascript-interview-questions/#arrow-functions)
